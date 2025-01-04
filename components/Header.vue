@@ -1,7 +1,7 @@
 <template>
-    <nav class="row navbar  bg-success text-white p-3">
+  <nav class="row navbar  bg-success text-white p-3">
     <div class="container">
-      <img src="/asset/smkn4.jpg" >
+      <img src="/asset/logo.png" >
       <div class="col-lg-11 me-auto">
         <h1>SELAMAT DATANG DI WEBSITE SMKN4</h1>
         <address>
@@ -11,10 +11,9 @@
       </div>
     </div>
   </nav>
- 
+</template>
   <style scoped>
   img{
     width: 200px;
   }
   </style>
-   </template>
