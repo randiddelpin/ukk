@@ -7,7 +7,7 @@
       </div>
       <div class="col-md-9">
         <h3 class="text-primary">sambutan kepala sekolah</h3>
-        <p class="lead text-muted">assalamualaikum wr.wb.selamat datang di web SMKN4 Tasikmalaya,kami berharap dengan website ini pengunjung dapat mengenal lebih jauh sekolah kami
+        <p class="lead text-light">assalamualaikum wr.wb.selamat datang di web SMKN4 Tasikmalaya,kami berharap dengan website ini pengunjung dapat mengenal lebih jauh sekolah kami
         </p>
         <p class="font-weight-bold text-dark">
           kepala sekolah:<span class="text-succes">kurniawan spd.mpd</span>
